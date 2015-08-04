@@ -14,6 +14,8 @@ Some private updates for Geo Mashup (WordPress plugin)
 ###How to use
 1. Install and activate [Geo Mashup Custom plugin](http://wordpress-geo-mashup.googlecode.com/files/geo-mashup-custom-1.0.zip).
 2. Upload 'custom.js' to the 'geo-mashup-custom' directory under wp-content/plugins.
+3. Copy mm_20_*.png files from wp_content/plugins/geo-mashup/images to wp_content/plugins/geo-mashup-custom/images.
+
 
 ###History
 
@@ -21,5 +23,5 @@ Some private updates for Geo Mashup (WordPress plugin)
 
 2015.7.1: kazuyk: GeoMashup.addAction( 'singleMarkerOptions', function() {} ) in the original code did not work. '.icons' in each line of the function should be removed.
 
-original: [WordPress Geo Mashup Mapstraction Custom Markers]http://snipplr.com/view/64680/wordpress-geo-mashup-mapstraction-custom-markers/
+original: [WordPress Geo Mashup Mapstraction Custom Markers](http://snipplr.com/view/64680/wordpress-geo-mashup-mapstraction-custom-markers/)
 
